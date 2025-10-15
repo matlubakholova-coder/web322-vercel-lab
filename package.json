@@ -1,0 +1,12 @@
+{
+  "name": "web322-vercel-lab",
+  "version": "1.0.0",
+  "description": "WEB322 Lab - GitHub and Vercel Deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
